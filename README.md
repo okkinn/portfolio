@@ -2,7 +2,9 @@
 A single-page static website portfolio deployed using Github Pages.
 
 ## Developer Info
-John Nico T. De Castro is a passionate and driven student with a strong foundation in programming logic. He is currently studying at the University of the Philippines Los Baños as a 2nd year undergraduate computer science student. With interests in cybersecurity and data science and proficiency in several programming languages such as C, python, and R, Nico is committed to deploying high-quality and user-friendly software solutions for users. 
+Hello! I'm Nico, a third year computer science student at the University of the Philippines Los Baños. I’m deeply interested in AI and Data Science because of the profound impact they have on the world and would like to pursue a career in these fields.
+
+When I’m away from the keyboard, I like to read a wide range of genres such as Self-help, Philosophy, and Programming books. I also workout and play volleyball as part of the varsity team.
 
 ## Live Website Link
 The live website can be accessed through this link: https://okkinn.github.io/portfolio/
